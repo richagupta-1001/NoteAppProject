@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("index.jpg");
+}
+.img{
+    width: 30px;
+    height: 40px;
+}
